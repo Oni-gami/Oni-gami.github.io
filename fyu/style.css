@@ -1,0 +1,70 @@
+@font-face {
+    font-family: ipam;
+  src: url(IPAMincho.ttf);
+}
+
+body {
+    background-color: blue;
+    color:white;
+    text-shadow:0px 0px 6px #00ffff;
+    font-family: ipam;
+  /*  font-family: "Courier new"; 
+    text-transform: none;
+    text-transform:lowercase; */
+    
+    
+    /*
+      <title>Faiyu</title> 
+    
+    -----<[[[EXTRA FONTS]]]>-----
+    
+    
+    
+    font-family: "Century Gothic";
+    
+    
+    */
+}
+
+
+
+p {
+    word-spacing: 3px;
+    
+}
+
+
+
+img {
+    display: block;
+    margin: auto;
+    width: 20%;
+}
+
+.text-1 {
+    display: block;
+    margin: auto;
+    width: 60%;
+}
+
+#message-input {
+    width: 80%;
+    background: #121411;
+    border: none;
+    color: #67ff8f;
+    text-shadow: 0px 0px 6px #4dff7c;
+
+}
+
+
+
+
+/*                      
+
+
+---{{{GOOGLE DRIVE SITE HOST}}}---
+
+https://www.youtube.com/watch?v=qtQ9TvQLKjc */
+
+
+
