@@ -47,14 +47,13 @@ img {
     width: 60%;
 }
 
-#message-input {
-    width: 80%;
-    background: #121411;
-    border: none;
-    color: #67ff8f;
-    text-shadow: 0px 0px 6px #4dff7c;
-
+#text-2 {
+    display: block;
+    margin: auto;
+    font-family: "Microsoft Sans Serif";
+    
 }
+
 
 
 
